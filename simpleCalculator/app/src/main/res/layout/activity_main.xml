@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:gravity="center"
+        android:text="@string/title_string"
+        android:textAllCaps="false"
+        android:textColor="#830240"
+        android:textSize="30sp"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView"
+        android:text="@string/num1_label" />
+
+    <EditText
+        android:id="@+id/num1EditText"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView2"
+        android:layout_alignParentLeft="true"
+        android:layout_toRightOf="@id/textView2"
+        android:ems="10"
+        android:inputType="numberSigned" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView"
+        android:layout_marginLeft="195dp"
+        android:layout_marginTop="0dp"
+        android:layout_toRightOf="@id/textView2"
+        android:text="@string/num2_label" />
+
+    <EditText
+        android:id="@+id/num2EditText"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView3"
+        android:layout_alignParentRight="true"
+        android:layout_toRightOf="@id/num1EditText"
+        android:ems="10"
+        android:inputType="numberSigned" />
+
+    <Button
+        android:id="@+id/addButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/num1EditText"
+        android:text="@string/plus_label" />
+
+    <Button
+        android:id="@+id/subButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/num1EditText"
+        android:layout_toRightOf="@id/addButton"
+        android:text="@string/subtract_label" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/addButton"
+        android:text="@string/answer_label" />
+
+    <TextView
+        android:id="@+id/answerTextView"
+        android:layout_width="336dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/addButton"
+        android:layout_marginLeft="23dp"
+        android:layout_marginTop="-2dp"
+        android:layout_toRightOf="@id/textView4"
+        android:hint="@string/hint_string" />
+
+    <Button
+        android:id="@+id/clearButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView4"
+        android:layout_marginBottom="260dp"
+        android:text="@string/clear_string" />
+
+    <Button
+        android:id="@+id/multiplyButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/num2EditText"
+        android:layout_toRightOf="@id/subButton"
+        android:text="@string/mult_label" />
+
+    <Button
+        android:id="@+id/divideButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/num2EditText"
+        android:layout_toRightOf="@id/multiplyButton"
+        android:text="@string/divide_label" />
+</RelativeLayout>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="title_string">Calculator</string>
+    <string name="num1_label">Number 1</string>
+    <string name="num2_label">Number 2</string>
+    <string name="plus_label">+</string>
+    <string name="subtract_label">-</string>
+    <string name="mult_label">*</string>
+    <string name="divide_label">/</string>
+    <string name="clear_string">Clear</string>
+    <string name="answer_label">Answer</string>
+    <string name="hint_string">Answer displays here</string>
+</resources>
