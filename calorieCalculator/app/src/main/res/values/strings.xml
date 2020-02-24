@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Burger</string>
+    <string name="chickenLabel">Chicken Patty</string>
+    <string name="turkeyLabel">Turkey Patty</string>
+    <string name="veggieLabel">Veggie Patty</string>
+    <string name="baconLabel">Bacon</string>
+    <string name="noCheeseLabel">No Cheese</string>
+    <string name="cheddarLabel">Cheddar</string>
+    <string name="mozzLabel">Mozzarella</string>
+    <string name="sauceLabel">Special Sauce - up to one teaspoon</string>
+    <string name="calorieLabel">Calories?</string>
+    <string name="contentString">Burger Calorie Calculator</string>
+</resources>
