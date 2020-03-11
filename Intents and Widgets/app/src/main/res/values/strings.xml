@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Assign 3</string>
+    <string name="titlename">Indian Cricket Players</string>
+    <string name="player">Select a player:</string>
+    <string-array name="spinnerArray">
+        <item><b><i>MS Dhoni</i></b></item>
+        <item><b><i>Virat Kohli</i></b></item>
+        <item><b><i>Sachin Tendulkar</i></b></item>
+        <item><b><i>Rohit Sharma</i></b></item>
+        <item><b><i>Hardik Pandya</i></b></item>
+    </string-array>
+    <string name="playerButton">Go to Player Information</string>
+    <string name="goBack">Go Back To Choices</string>
+    <string-array name="playerText">
+        <item>\nInformation\n\nMahendra Singh Dhoni(born 7 July 1981)commonly known as MS Dhoni is an Indian international cricketer who captained the Indian national team in limited-overs formats from 2007 to 2016 and in Test cricket from 2008 to 2014\n
+        He is the only captain in the history of Cricket to win all ICC trophies. Under his captaincy, India won the 2007 ICC World Twenty20, the 2010 and 2016 Asia Cups, the 2011 ICC Cricket World Cup and the 2013 ICC Champions Trophy\n
+        A right-handed middle-order batsman and wicket-keeper, Dhoni is one of the highest run scorers in One Day Internationals (ODIs) with more than 10,000 runs scored and is considered an effective "finisher" in limited-overs formats.\n
+        He is also regarded by some as one of the best wicket-keepers and captains in modern limited-overs international cricket.\n
+        In 2013, under his captaincy, India became the first team in more than 40 years to whitewash Australia in a Test series. In the Indian Premier League, he captained the Chennai Super Kings to victory at the 2010, 2011 and 2018 seasons, along with wins in the 2010 and 2014 editions of Champions League Twenty20. In 2011, Time magazine included Dhoni in its annual Time 100 list as one of the "Most Influential People in the World.\n
+        Dhoni holds the post of Vice-President of India Cements Ltd., after resigning from Air India. India Cements is the owner of the IPL team Chennai Super Kings, and Dhoni has been its captain since the first IPL season. He announced his retirement from Tests on 30 December 2014.\n
+        In 2012, SportsPro rated Dhoni as the sixteenth most marketable athlete in the world. Dhoni is the co-owner of Indian Super League team Chennaiyin FC. In June 2015, Forbes ranked Dhoni at 23rd in the list of highest paid athletes in the world, estimating his earnings at US$31 million.</item>
+        <item>\nInformation\n\n Virat Kohli (born 5 November 1988) is an Indian cricketer who currently captains the India national team.A right-handed top-order batsman, Kohli is regarded as one of the best batsmen in the world. He plays for Royal Challengers
+            Bangalore in the Indian Premier League (IPL), and has been the teams captain since 2013. Since October 2017, he has been the top-ranked ODI batsman in the world and is currently 1st in Test rankings with 928 points. Among Indian batsmen, Kohli has the
+            best ever Test rating (937 points), ODI rating (911 points) and T20I rating (897 points).
+            Kohli captained India Under-19s to victory at the 2008 Under-19 World Cup in Malaysia. After a few months later, he made his ODI debut for India against Sri Lanka at the age of 19. Initially having played as a reserve batsman in the Indian team, he soon
+            established himself as a regular in the ODI middle-order and was part of the squad that won the 2011 World Cup. He made his Test debut in 2011 and shrugged off the tag of "ODI specialist" by 2013 with Test hundreds in Australia and South Africa.
+            Having reached the number one spot in the ICC rankings for ODI batsmen for the first time in 2013, Kohli also found success in the Twenty20 format, winning the Manof the Tournament twice at the ICC World Twenty20 (in 2014 and 2016).
+            Kohli has been the recipient of many awards such as the Sir Garfield Sobers Trophy (ICC Cricketer of the Year) in 2017 and 2018, ICC Test Player of the Year 2018, ICC ODI Player of the Year in 2012, 2017 and 2018 and Wisden Leading \n
+            Cricketer in the World in 2016, 2017 and 2018. He was given the Arjuna Award in 2013, the Padma Shri under the sports category in 2017 and the Rajiv Gandhi Khel Ratna, the highest sporting honour in India, in 2018.
+            Kohli is ranked as one of the worlds most famous athletes by ESPN and one of the most valuable athlete brands by Forbes. In 2018, Time magazine named Kohli one of the 100 most influential people in the world.</item>
+        <item>\nInformation\n\n Sachin Ramesh Tendulkar (born 24 April 1973) is an Indian former international cricketer and a former captain of the Indian national team.
+            He is widely regarded as one of the greatest batsmen in the history of cricket.[4] He is the highest run scorer of all time in International cricket.
+            Tendulkar took up cricket at the age of eleven, made his Test debut on 15 November 1989 against Pakistan in Karachi at the age of sixteen,
+            and went on to represent Mumbai domestically and India internationally for close to twenty-four years. He is the only player to have scored one hundred international centuries,
+            the first batsman to score a double century in a One Day International (ODI), the holder of the record for the most runs in both Test and ODI,
+            and the only player to complete more than 30,000 runs in international cricket. He is colloquially known as Little Master or Master Blaster, In 2001, Sachin Tendulkar
+            became the first batsman to complete 10,000 ODI runs in his 259 innings. In 2002, halfway through his career, Wisden Cricketers Almanack ranked him the second greatest
+            Test batsman of all time, behind Don Bradman, and the second greatest ODI batsman of all time, behind Viv Richards. Later in his career, Tendulkar was a part of the
+            Indian team that won the 2011 World Cup, his first win in six World Cup appearances for India.[12] He had previously been named "Player of the Tournament" at the
+            2003 edition of the tournament, held in South Africa. In 2013, he was the only Indian cricketer included in an all-time Test World XI named to mark the 150th
+            anniversary of Wisden Cricketers Almanack.\n
+             In 2010, Time magazine included Sachin in its annual Time 100 list as one of the Most Influential People in the World. In December 2012, Tendulkar announced his
+            retirement from ODIs.[27] He retired from Twenty20 cricket in October 2013 and subsequently retired from all forms of cricket on 16 November 2013 after playing
+            his 200th Test match, against the West Indies in Mumbais Wankhede Stadium.[29] Tendulkar played 664 international cricket matches in total, scoring 34,357 runs.\n
+            In 2019, Tendulkar was inducted into the ICC Cricket Hall of Fame.\n</item>
+            <item>\nInformation\n\n While his exploits in Test cricket leave a lot to be desired, there is no doubting Rohit Sharma’s ability as a batsman.
+                He is the first player in ODI history to have scored three double hundreds, including a world record individual score of 264 against Sri Lanka in 2014,
+                and that tells you what a talent he is.\n
+                The move to open with him in the shorter formats of the game worked wonders for him as well as India. After his impressive performance in the ICC Champions Trophy 2013,
+                runs from his bat continued to flow. In the same year, in a high-scoring ODI series against Australia, Rohit amassed 491 runs in just 6 matches which included his
+                first double-hundred. His innings of 209 came off 158 balls and had a total of 16 sixes.\n
+                Rohit was ruled out of cricket due to a finger injury but came back all guns blazing, hitting his second ODI double-hundred, against Sri Lanka on November 13,
+                2014, in Kolkata. Rohits 264 runs came in just 173 balls which till date is the highest individual score in ODI history. In the following year,
+                Sharma was the second-highest run-scorer for India in the ODI World Cup. Just when it looked he would cement his place in the Test side after a good short run,
+                another finger injury sidelined him during the New Zealand series at home. Sharma missed most of India successful home season in 2016.\n
+                In yet another comeback to cricket, Rohit led the Mumbai franchise to their third Indian T20 league title in 6 years. In the last month of 2017, Rohit
+                scored his third double century in ODIs, once again against Sri Lanka, and was also the captain of the team at that time. It was a memorable knock for him as it came on
+                his wedding anniversary, a gift that his wife cherished by being the live audience. In the same month, against the same opposition but this time in the Twenty20
+                format of the game, on December 22, Rohit equalled the world record of scoring the joint-fastest century of 35 balls in T20I.\n
+                Rohit Sharma further proved his credentials as a captain when he led Mumbai to their record fourth trophy in the 2019 season. With the bat,
+                Rohit was unstoppable and emerged as the leading run-scorer of the 2019 ICC Cricket World Cup. He piled on 648 runs in 9 innings and also hammered
+                5 centuries, a feat never achieved before. Post a dream World Cup, Rohit was selected in the Test squad for the West Indian tour, a format hes yet to boss.\n
+</item>
+        <item>\nInformation\n\n Hardik Pandya is an all-rounder Indian Cricketer. He is primarily known as an all-rounder who bats right-handed and bowls right-arm fast-medium.
+            Born on 11 October 1993, he completed his schooling from MK High School in Bandra. He started his career in domestic cricket playing for team Baroda. After playing
+            vital role in team Baroda, he got to play his first International match against Australia in 2016. Later, he made his T20 debut against Srilanka in which he took 2 wickets.
+            Over the time, this wiry young cricketer from a small town in Gujarat made his place in team India. Pandya is a talented Indian player who has the ability to play
+            excellent knocks with his bat in ODIs, sealing off some tight run-chase and scoring quick runs as and when required.\n
+            He is known for his big hittings and fearless attitude.\n
+            Hardik’s growing years were not easy and most of his childhood was spent in hardship. He and his brother Krunal would often spend the entire day solely on one meal eating maggie to save money.\n
+            His father is an ardent lover of the cricket. Infact, it was him who drew his and his brother’s interest to cricket as he used to take them to watch matches in Vadodara.\n
+            After seeing the craze for the game, he along with his brother got enrolled in Kiran More’s International Academy at the age of 5 and 7 respectively.\n
+            Kiran More had supported him a lot in his initial days and didn’t not charge any fee from Hardik for first three years of training in his academy.\n
+            Initially, he was a leg-spinner but because of Kiran More, he became a medium pacer.\n
+            His journey to cricket has been tough with full of ups and downs as his father had to quit his job after suffering from heart attack thrice.
+            After the sole bread earner of the family was confined to bed rest, he became more focused towards his cricket career.\n
+            He failed in 9th standard and left his studies to focus on his dream of becoming a cricket.\n
+            Finally in 2013, he made his debut in domestic Indian cricket team playing for Baroda.\n
+            In 2015, John Wright saw great potential in him and therefore he was taken in IPL team of Mumbai Indians. He played well in the series then and rest in history.\n
+            Later, his performance in 2016 finals of Syed Mushtaq Ali Trophy drew everyone’s attention on him after he played an unbeaten knock of 86 and led his team to win over
+            Vidarbha cricket.\n
+            He made his International debut against team Australia on 27 January 2016.\n</item>
+    </string-array>
+</resources>
