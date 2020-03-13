@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Portfolio5-Spineers</string>
+    <string name="xmlLabel">Select the flavour of Ice Cream</string>
+    <string name="classLabel">Select the toppings</string>
+    <string name="listLabel">Select the type of cup/cone</string>
+    <string name="choose_the_ice_cream_type_of_cone_and_toppings">Choose the Ice Cream, type of cone and toppings</string>
+    <string-array name="spinnerArray">
+        <item>Chocolate Fudge</item>
+        <item>Berry Delight</item>
+        <item>Mango Vanilla Dolly</item>
+        <item>Pistachio</item>
+        <item>Cookie and Dough</item>
+    </string-array>
+</resources>
