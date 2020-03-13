@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Implicit</string>
+    <string name="browserlabel_str">OPEN A BROWSER</string>
+    <string name="dialLabel">TAKE A PICTURE</string>
+    <string name="dial_Label_str">DIAL A NUMBER</string>
+    <string name="pictureLabel">TAKE A PICTURE</string>
+</resources>
