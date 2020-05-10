@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/story_back"
+    tools:context="z1862977.cs.niu.edu.madLibs.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:gravity="center_horizontal"
+            android:inputType="numberDecimal"
+            android:text="The Cat and The Fiddle"
+            android:textColor="#05386B"
+            android:textSize="35dp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/sillyWord"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="100dp"
+            android:gravity="center_horizontal"
+            android:hint="Enter a Silly Word"
+            android:textColor="#05386B"
+            android:textColorHint="#0563C2" />
+
+        <EditText
+            android:id="@+id/animal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="100dp"
+            android:gravity="center_horizontal"
+            android:hint="Enter an Animal Name"
+            android:textColor="#05386B"
+            android:textColorHint="#0563C2" />
+
+        <EditText
+            android:id="@+id/musicalInstrument"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="100dp"
+            android:gravity="center_horizontal"
+            android:hint="Enter a Musical Instrument"
+            android:textColor="#05386B"
+            android:textColorHint="#0563C2" />
+
+        <EditText
+            android:id="@+id/noun1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="100dp"
+            android:gravity="center_horizontal"
+            android:hint="Enter a Noun"
+            android:textColor="#05386B"
+            android:textColorHint="#0563C2" />
+
+        <EditText
+            android:id="@+id/adjective"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="100dp"
+            android:gravity="center_horizontal"
+            android:hint="Enter a Adjective"
+            android:textColor="#05386B"
+            android:textColorHint="#0563C2" />
+
+        <EditText
+            android:id="@+id/noun2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="100dp"
+            android:gravity="center_horizontal"
+            android:hint="Enter a Noun"
+            android:textColor="#05386B"
+            android:textColorHint="#0563C2" />
+
+        <Button
+            android:id="@+id/story5Button"
+            android:layout_width="143dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="100dp"
+            android:layout_marginTop="14dp"
+            android:layout_marginBottom="10dp"
+            android:alpha="1"
+            android:background="@drawable/custom_button1"
+            android:text="Submit"
+            android:textColor="@android:color/background_light"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/story5Screen"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:text="Story Comes Here"
+            android:textColor="#05386B"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+
+</ScrollView>

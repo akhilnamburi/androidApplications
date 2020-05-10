@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back5"
+    tools:context="z1862977.cs.niu.edu.madLibs.MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/architects_daughter"
+            android:gravity="center_horizontal"
+            android:inputType="numberDecimal"
+            android:text="MAD LIBS"
+            android:textAllCaps="false"
+            android:textColor="#05386B"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/storytitle"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_below="@+id/title"
+            android:gravity="center"
+            android:inputType="numberDecimal"
+            android:text="Select a story"
+            android:textColor="#E91E63"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/storyOneButton"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/storytitle"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="10dp"
+            android:alpha="2.5"
+            android:background="@drawable/custom_button"
+            android:text="STORY 1"
+            android:textColor="?attr/colorBackgroundFloating"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/storyTwoButton"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/storyOneButton"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="10dp"
+            android:alpha="2.5"
+            android:background="@drawable/custom_button"
+            android:text="STORY 2"
+            android:textColor="#ffffff"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/storyThreeButton"
+            android:layout_width="297dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/storytitle"
+            android:layout_alignEnd="@+id/storyTwoButton"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="57dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="168dp"
+            android:layout_marginEnd="2dp"
+            android:layout_marginBottom="10dp"
+            android:alpha="2.5"
+            android:background="@drawable/custom_button"
+            android:text="STORY 3"
+            android:textColor="#ffffff"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/storyFourButton"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/storytitle"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="60dp"
+            android:layout_marginTop="243dp"
+            android:layout_marginEnd="53dp"
+            android:layout_marginBottom="10dp"
+            android:alpha="2.5"
+            android:background="@drawable/custom_button"
+            android:text="STORY 4"
+            android:textColor="#ffffff"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/storyFiveButton"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/storytitle"
+            android:layout_alignStart="@+id/storyFourButton"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="-1dp"
+            android:layout_marginTop="318dp"
+            android:layout_marginEnd="54dp"
+            android:layout_marginBottom="10dp"
+            android:alpha="2.5"
+            android:background="@drawable/custom_button"
+            android:text="STORY 5"
+            android:textColor="#ffffff"
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+
+
+</ScrollView>
