@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="z1856517.cs.niu.edu.asssignment5.MainActivity">
+
+    <item android:id="@+id/action_add"
+        android:title="@string/addString"
+        app:showAsAction="ifRoom"
+        android:icon="@android:drawable/ic_menu_add"/>
+    <item android:id="@+id/action_delete"
+        android:title="@string/deleteString"
+        app:showAsAction="ifRoom"
+        android:icon="@android:drawable/ic_menu_delete"/>
+    <item android:id="@+id/action_update"
+        android:title="@string/updateString"
+        app:showAsAction="never"
+        android:icon="@android:drawable/ic_menu_edit"/>
+    <item
+        android:id="@+id/action_resetAll"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="@string/resetAll"
+        app:showAsAction="never" />
+</menu>
